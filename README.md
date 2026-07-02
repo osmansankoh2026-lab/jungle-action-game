@@ -15,7 +15,7 @@ Complex jungle action game with AI teammates, smart enemies, NPC rescue mechanic
 
 ```
 npm install
-npm run android
+Google android
 ```
 
 ## Game Mechanics
